@@ -13,8 +13,6 @@ Funktionen
 
 * See the other datas the file contains, so you can see directly your notes about the URL. Move your mouse on the '!' mark on the right of the toolbar.
 * 
-
-* Export all or only non-visited URLs.
 * Es koennen alle oder auch nur die unbesuchten URLs exportiert werden.
 
 * Auto navigation through the URLs list. As a slideshow you can set an interval between each URL loading.
@@ -24,5 +22,4 @@ Funktionen
 * Crawl mode, Flem load completely each page and go next. Set a timing limit, when the webpage don't answer.
 * 
 
-* Unterstuetzte Sprachen: English, French
-* 
+* Unterstuetzte Sprachen: Englisch, Franzoesisch
