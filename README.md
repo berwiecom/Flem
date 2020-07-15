@@ -9,7 +9,7 @@ Ver&ouml;ffentlicht unter der MPL Lizenz.
 * F&uuml;ge neue URLs hinzu und entferne unerw&uuml;nschte. Die aktuelle URL kann mittels des 'add' Schalters angeh&auml;ngt werden. Die "Playlist" kann gespeichert und geteilt werden - n&uuml;tzlich f&uuml;r "web sourcing".
 * Mittels 'Strg'-Taste werden URLs in einem neuem Browser-Reiter ge&ouml;ffnet.
 * Um zus&auml;tzliche Informationen oder Deine Notizen zur URL anzuzeigen, bewege die Maus &uuml;ber das '!' Ausrufezeichen auf der rechten Seite der Toolbar.
-* Es k&ouml;nnen alle oder auch nur die unbesuchten URLs exportiert werden.
+* Exportiere alle oder auch nur die unbesuchten URLs.
 * F&uuml;r den Slideshow-Modus kann die Anzeigedauer angegeben werden.
-* Im "Crawl Mode" zeigt Flem nach jeder komplett geladenen Webseite die n&auml;chste. Zur Sicherheit ist ein 'Timeout' aktivierbar.
+* Im "Crawl Mode" zeigt Flem nach jeder komplett geladenen Webseite automatisch die n&auml;chste. Zur Sicherheit ist ein 'Timeout' aktivierbar.
 * Unterstuetzte Sprachen: Englisch, Franz&ouml;sisch
